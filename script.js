@@ -1,6 +1,6 @@
-const chkBox = document.getElementById('chkbox');
+const checkB = document.getElementById('chkbox');
 
-chk.addEventListener('change', () => {
+checkB.addEventListener('change', () => {
 	document.body.classList.toggle('dark');
 });
 
